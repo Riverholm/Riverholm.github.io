@@ -84,9 +84,7 @@ const projects = [
     type: 'gallery',
     gallery: [
       'img/starterpack-galian.jpg',
-      'img/Dessin1-2-3.jpg',
-      'img/Dessin4et5.jpg',
-      'img/polaroid_awen.jpg'
+      'img/Dessin1-2-3.webp',
     ],
     tools: ['Fresco', 'Photoshop'],
     skills: [
@@ -146,16 +144,10 @@ const projects = [
     type: 'gallery',
     gallery: [
       'img/Mon poste 1.png',
-      'img/Mon poste 2.png',
       'img/Mon poste 3.png',
-      'img/Mon poste 4.png',
       'img/Post de présentation 1.png',
-      'img/Post de présentation 2.png',
       'img/Post de présentation 3.png',
-      'img/Article_SofiaCoppola - Copie.webp',
       'img/Article 2.jpg',
-      'img/Article 3.jpg',
-      'img/Article 4.jpg',
       'img/identité visuelle.png',
     ],
     tools: ['Figma', 'Photoshop', 'Instagram', 'Odoo'],
@@ -319,15 +311,15 @@ const projects = [
     desc: 'Série photographique revisitant les codes de la carte postale parisienne.',
     type: 'gallery',
     gallery: [
-      "img/la santé.png",
-      "img/la poisonnerie.png",
-      "img/l'érudit.png",
-      "img/à l'abondance.png",
-      "img/les terrasses.png",
-      "img/amour en cage.jpg",
-      "img/les sappes.jpg",
+      "img/la santé.webp",
+      "img/à l'abondance.webp",
+      "img/les terrasses.webp",
+      "img/la poisonnerie.webp",
+      "img/l'érudit.webp",
+      "img/amour en cage.webp",
+      "img/les sappes.webp",
       "img/chill.jpg",
-      "img/love.jpg"
+      "img/love.webp"
     ],
     tools: [
       'Sony A6700',
